@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/crickreact/static/css/main.073c9b0a.css",
-    "main.js": "/crickreact/static/js/main.25a0931e.js",
-    "static/js/787.bf837537.chunk.js": "/crickreact/static/js/787.bf837537.chunk.js",
-    "static/media/logo.svg": "/crickreact/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/crickreact/static/js/main.8099625a.js",
     "index.html": "/crickreact/index.html",
-    "main.073c9b0a.css.map": "/crickreact/static/css/main.073c9b0a.css.map",
-    "main.25a0931e.js.map": "/crickreact/static/js/main.25a0931e.js.map",
-    "787.bf837537.chunk.js.map": "/crickreact/static/js/787.bf837537.chunk.js.map"
+    "main.8099625a.js.map": "/crickreact/static/js/main.8099625a.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.25a0931e.js"
+    "static/js/main.8099625a.js"
   ]
 }
